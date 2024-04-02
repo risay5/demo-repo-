@@ -8,7 +8,6 @@ Updating file.
 
 Pushing changes to the Git
 
-# Reset the added changes to be committed
+# Adding new branches
 
-
-# Resetting the commits 
+Branch trialsdsfsdfds
